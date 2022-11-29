@@ -1,0 +1,71 @@
+
+.navbar {
+
+    background-image: url(../imgs/fondo-azul.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+
+}
+
+main {
+
+    background-image: url(../imgs/fondo-blanco.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+p {
+
+    text-align: center;
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 1.3rem;
+
+}
+
+h3 {
+
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.row {
+
+    margin: auto;
+}
+
+.contacto {
+
+    width: 70%;
+    margin: auto;
+}
+
+.trabajos {
+
+    margin: auto;
+}
+
+footer {
+
+    background-image: url(../imgs/fondo-azul.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    padding-left: 1rem;
+    padding-top: 1rem;
+
+}
+
+h1 {
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+
+header {
+
+    width: 80%;
+    margin: auto;
+}
